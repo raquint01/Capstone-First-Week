@@ -1,6 +1,8 @@
 # Europe-Travel-Website-html-css-js
-Create A Responsive Tour &amp; Travel Agency Website Design Using HTML / CSS / JS
-A Responsive Adventure & Tour Website Design Using HTML CSS  & JavaScript Step By Step
+
+# This is being used for training purposes only for the Group 1 - Batch 2. Enjoy!
+
+
 
 
 # HTML
